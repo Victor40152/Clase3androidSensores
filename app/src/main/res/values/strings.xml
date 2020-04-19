@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Actividades Y Sensores</string>
+    <string name="title_menu">Menú Principal</string>
+    <string name="subtitle_menu">Presiona una opción</string>
+    <string name="opcion1">Acelerometro</string>
+    <string name="opcion2">Flash</string>
+    <string name="opcion3">Cerrar</string>
+
+    <string name="title_menu2">Sensor Acelerometro</string>
+    <string name="regresar">Regresar</string>
+
+    <string name="title_menu3">Sensor Flash</string>
+    <string name="regresar2">Regresar</string>
+    <string name="encender">apagar</string>
+    <string name="apagar">Encender</string>
+
+
+</resources>
